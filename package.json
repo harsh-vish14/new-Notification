@@ -1,0 +1,11 @@
+{
+  "name": "new_notification",
+  "version": "1.0.0",
+  "description": "this is new year notification for 2021",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshkumar Vishwakarma",
+  "license": "ISC"
+}
